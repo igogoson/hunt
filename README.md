@@ -80,7 +80,7 @@ IsTheApp is not responsible if the user does not follow the laws of the country 
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/hbollon/portfolio-vuejs/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/igogoson/hunt/issues).
 
 ## Show your support
 
