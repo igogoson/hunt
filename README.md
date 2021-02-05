@@ -1,14 +1,6 @@
-# IsTheApp v2.0.0
-Open-source android spyware
+# Hunt
 
 The application is installed on the child's device as well as on the parent's device, in the login view the type of user is chosen.
-
-# Donate
-The download of the IsTheApp app is 100% free. However, developing and supporting this project is hard work and costs real money. Please help support the development of this project for future features!
-
-<a href="https://www.paypal.com/paypalme2/midrosapps">
-  <img src="https://raw.githubusercontent.com/M1Dr05/IsTheApp/master/art/paypal.png">
-</a>
 
 # Feacture
 - Multiple Child clients
@@ -78,20 +70,18 @@ The IsTheApp application is intended for legal and educational purposes ONLY. It
 IsTheApp is not responsible if the user does not follow the laws of the country and goes against it. If it is found that the user violates any law or spy in secret, he will be subject to sanctions that govern the legislation of the country.
 
 
-# License
 
-```java 
-Copyright [2019] [Rafael Mercado]
+## Author
 
-   Licensed under the Apache License, Version 2.0 (the "License");
-   you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
+👤 **Peter Igogo**
 
-       http://www.apache.org/licenses/LICENSE-2.0
+* Github: [@igogoson](https://github.com/igogoson)
+* LinkedIn: [@Peter_Wangai](https://www.linkedin.com/in/hugo-bollon-68a2381a4/)
 
-   Unless required by applicable law or agreed to in writing, software
-   distributed under the License is distributed on an "AS IS" BASIS,
-   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-   See the License for the specific language governing permissions and
-   limitations under the License.
-```
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/hbollon/portfolio-vuejs/issues).
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
