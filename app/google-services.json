@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "344948370836",
+    "firebase_url": "https://detective-dce83-default-rtdb.firebaseio.com",
+    "project_id": "detective-dce83",
+    "storage_bucket": "detective-dce83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344948370836:android:7e1011c711eb6569fc7381",
+        "android_client_info": {
+          "package_name": "com.github.midros.istheapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344948370836-tan4v8ee4dk4pu885nt1khc9sci5v3q6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy8EOgSyOSXPwkShi4rMzfDq3dr9WcwFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344948370836-tan4v8ee4dk4pu885nt1khc9sci5v3q6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
